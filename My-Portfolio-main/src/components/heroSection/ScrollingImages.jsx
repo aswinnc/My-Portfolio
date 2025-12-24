@@ -208,8 +208,8 @@ function ScrollingImages() {
               src={slide.image}
               className="object-cover"
               style={{
-                width: "85%",
-                height: "85%",
+                width: "55%",
+                height: "55%",
                 borderRadius: "50%",
                 objectPosition: "center top",
               }}

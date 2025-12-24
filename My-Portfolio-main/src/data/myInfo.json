@@ -103,6 +103,13 @@
       "tooltipColor": "#4479A1"
     },
     {
+      "name": "Docker",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+      "size": "large",
+      "angle": 204,
+      "tooltipColor": "#2496ED"
+    },
+    {
       "name": "Git",
       "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
       "size": "large",
