@@ -71,12 +71,12 @@ const lightTheme = {
   // Specials
   overlay: "rgba(255,255,255,0.7)", // Light overlay
   shadow: "rgba(0,0,0,0.1)"         // Subtle shadow
-}; 
+};
 
 
-let customTheme = JSON.parse(localStorage.getItem('customTheme')) || {...darkTheme};
+let customTheme = JSON.parse(localStorage.getItem('customTheme')) || { ...darkTheme };
 
-const theme = localStorage.getItem('theme') || 'light'
+const theme = localStorage.getItem('theme') || 'dark'
 const initialState = {
   theme: theme, // 'dark', 'light', or 'custom'
   themeColors: theme === 'dark' ? darkTheme : theme === "custom" ? customTheme : lightTheme,
