@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What technologies do you specialize in?",
+    "answer": "I specialize in the modern Python Full Stack ecosystem. My core stack includes Next.js for high-performance frontends, Redux Toolkit for efficient state management, and Django for robust, scalable backends. I use Docker for containerization and MySQL for reliable data handling."
+  },
+  {
+    "question": "What kind of projects have you built?",
+    "answer": "I build production-ready systems. My flagship work includes scalable web applications using Django and Next.js. I've architected platforms like 'ShopEase,' a high-performance eCommerce app using Redux, and secure full-stack systems with custom JWT authentication."
+  },
+  {
+    "question": "Do you have experience with DevOps and Deployment?",
+    "answer": "Yes. I move beyond basic deployments by using Docker to containerize applications, ensuring consistent environments. I implement Multi-Stage builds to optimize images and set up automated workflows for seamless delivery."
+  },
+  {
+    "question": "How do you ensure code quality and stability?",
+    "answer": "I enforce strict quality standards using best practices. Beyond syntax, I use Docker to prevent 'it works on my machine' issues, and I strictly validate data to ensure integrity across the full stack."
+  },
+  {
+    "question": "Do you have full-stack development experience?",
+    "answer": "Yes, I am comfortable across the entire stack. I build scalable backends using Python/Django and manage data with MySQL. My expertise includes designing efficient database schemas, handling complex state with Redux, and securing APIs with custom JWT implementations."
+  },
+  {
+    "question": "Are your projects mobile responsive?",
+    "answer": "Absolutely. I follow a mobile-first approach using Tailwind CSS. I rigorously test across devices to ensure seamless UX, maintaining high performance scores even on mobile networks."
+  },
+  {
+    "question": "How do you optimize application performance?",
+    "answer": "Performance is a priority. I assist optimizations via Django's ORM for efficient database queries and Next.js for optimized frontend delivery. I also optimize assets and implement code-splitting to keep applications lightweight."
+  },
+  {
+    "question": "What is your approach to security?",
+    "answer": "I believe in security by design. I use Django's built-in security features, implement HTTP-only cookies for sessions, use Bcrypt for hashing, and protect API routes with robust middleware and JWT tokens."
+  },
+  {
+    "question": "What are you currently learning or improving?",
+    "answer": "I am currently focused on advanced Engineering best practices. I am diving deeper into System Design patterns to build even more scalable architectures and exploring advanced Django capabilities."
+  }
+]

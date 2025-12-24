@@ -1,0 +1,155 @@
+{
+  "id": "coding-bundle",
+  "subtitle": "IT graduate with hands-on knowledge in Python and Full Stack Development (React JS, Django, MySQL). Completed internships, projects, and freelance work demonstrating practical software development skills.",
+  "badge": "Python & Full Stack Developer",
+  "gradient": "from-green-400 via-cyan-400 to-blue-500",
+  "buttonColor": "from-green-500 to-cyan-500",
+  "image": "/aswin.jpg",
+  "experience": [
+    {
+      "title": "Smart Appointment Booking System",
+      "location": "Freelance Developer",
+      "duration": "April 2025 – September 2025",
+      "description": [
+        "Developed a hospital appointment system to manage and track patient flow with live status updates for check-in, payment, consultation, and pharmacy.",
+        "Built using React JS (Vite) for the frontend and Django for the backend, streamlining workflows and reducing wait times."
+      ],
+      "icon": "💻"
+    },
+    {
+      "title": "Say IT Pvt Ltd",
+      "location": "AI Research and Development Intern",
+      "duration": "Mar 2025",
+      "description": [
+        "Completed an internship in AI Research and Development."
+      ],
+      "icon": "🧠"
+    },
+    {
+      "title": "NoviTech R&D Pvt Ltd",
+      "location": "Full Stack Development Intern",
+      "duration": "Jul 2024 - Aug 2024",
+      "description": [
+        "Completed an internship in Full Stack Development."
+      ],
+      "icon": "💻"
+    },
+    {
+      "title": "VEI",
+      "location": "IoT Intern",
+      "duration": "Feb 2023",
+      "description": [
+        "Completed an internship in Internet of Things."
+      ],
+      "icon": "📡"
+    }
+  ],
+  "education": [
+    {
+      "location": "B.Tech (Information Technology)",
+      "duration": "2021 - 2025",
+      "title": "Manakula Vinayagar Institute of Technology",
+      "description": [
+        "CGPA: 8.23"
+      ],
+      "icon": "🎓"
+    },
+    {
+      "location": "HSC",
+      "duration": "2021",
+      "title": "Sri Sampourna Vidyalayam",
+      "description": [
+        "Percentage: 70.81%"
+      ],
+      "icon": "🏫"
+    },
+    {
+      "location": "SSLC",
+      "duration": "2019",
+      "title": "Achariya Siksha Mandir",
+      "description": [
+        "Percentage: 56.6%"
+      ],
+      "icon": "🏫"
+    }
+  ],
+  "techIcons": [
+    {
+      "name": "Python",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+      "size": "large",
+      "angle": 0,
+      "tooltipColor": "#3776AB"
+    },
+    {
+      "name": "Django",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg",
+      "size": "large",
+      "angle": 51,
+      "tooltipColor": "#092E20"
+    },
+    {
+      "name": "React",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+      "size": "large",
+      "angle": 102,
+      "tooltipColor": "#61DAFB"
+    },
+    {
+      "name": "MySQL",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      "size": "large",
+      "angle": 153,
+      "tooltipColor": "#4479A1"
+    },
+    {
+      "name": "Git",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+      "size": "large",
+      "angle": 255,
+      "tooltipColor": "#F05032"
+    },
+    {
+      "name": "JavaScript",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+      "size": "large",
+      "angle": 306,
+      "tooltipColor": "#F7DF1E"
+    },
+    {
+      "name": "HTML",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+      "size": "small",
+      "angle": 0,
+      "tooltipColor": "#E34F26"
+    },
+    {
+      "name": "CSS",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+      "size": "small",
+      "angle": 60,
+      "tooltipColor": "#1572B6"
+    },
+    {
+      "name": "Postman",
+      "src": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg",
+      "size": "small",
+      "angle": 120,
+      "tooltipColor": "#FF6C37"
+    },
+    {
+      "name": "VS Code",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
+      "size": "small",
+      "angle": 180,
+      "tooltipColor": "#007ACC"
+    },
+    {
+      "name": "GitHub",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+      "size": "small",
+      "angle": 240,
+      "tooltipColor": "#181717"
+    }
+  ]
+}
