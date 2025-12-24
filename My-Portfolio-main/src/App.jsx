@@ -10,10 +10,13 @@ import {
   FloatSocialIcons,
 } from "./components/index";
 
+import GlobalSpotlight from "./components/GlobalSpotlight";
+
 function App() {
   // testing new email
   return (
     <>
+      <GlobalSpotlight />
       <Header />
       <HeroSection />
       <AboutSection />
