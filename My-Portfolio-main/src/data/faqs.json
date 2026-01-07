@@ -9,7 +9,7 @@
   },
   {
     "question": "Do you have experience with DevOps and Deployment?",
-    "answer": "Yes. I move beyond basic deployments by using Docker to containerize applications, ensuring consistent environments. I implement Multi--Stage builds to optimize images and set up automated workflows for seamless delivery."
+    "answer": "Yes. I move beyond basic deployments by using Docker to containerize applications, ensuring consistent environments. I implement Multi-Stage builds to optimize images and set up automated workflows for seamless delivery."
   },
   {
     "question": "How do you ensure code quality and stability?",
