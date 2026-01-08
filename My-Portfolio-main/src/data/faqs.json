@@ -32,7 +32,7 @@
     "answer": "I believe in security by design. I use Django's built-in security features, implement HTTP-only cookies for sessions, use Bcrypt for hashing, and protect API routes with robust middleware and JWT tokens."
   },
   {
-    "question": "What are you currently learning or improving?",
+    "question": "What are you currently learning or improving ?",
     "answer": "I am currently focused on advanced Engineering best practices. I am diving deeper into System Design patterns to build even more scalable architectures and exploring advanced Django capabilities."
   }
 ]
