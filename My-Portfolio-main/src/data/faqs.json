@@ -16,7 +16,7 @@
     "answer": "I enforce strict quality standards using best practices. Beyond syntax, I use Docker to prevent 'it works on my machine' issues, and I strictly validate data to ensure integrity across the full stack."
   },
   {
-    "question": "Do you have full-stack development experience?",
+    "question": "Do you have  full-stack development experience?",
     "answer": "Yes, I am comfortable across the entire stack. I build scalable backends using Python/Django and manage data with MySQL. My expertise includes designing efficient database schemas, handling complex state with Redux, and securing APIs with custom JWT implementations."
   },
   {
