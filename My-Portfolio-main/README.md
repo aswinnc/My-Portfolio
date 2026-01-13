@@ -30,7 +30,7 @@ A sleek, interactive portfolio website built with modern web technologies featur
 - **Lines of Code**: -----
 - **Commit Count**:  -----
 
-## 🎯 Project Highlights
+ ***🎯 Project Highlights***
 - Designed to create strong first impression through motion and interactivity
 - Implemented complex animations without compromising performance
 - Developed custom theme system allowing visitors to personalize their experience
