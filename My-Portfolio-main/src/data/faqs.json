@@ -29,7 +29,7 @@
   },
   {
     "question": "What is your approach to security?",
-    "answer": "I believe in security by design. I use Django's built-in security features, implement HTTP-only Cookies for sessions, use Bcrypt for hashing, and protect API routes with robust middleware and JWT tokens."
+    "answer": "I believe in security by design. I use Django's built-in security features, implement HTTP-only cookies for sessions, use Bcrypt for hashing, and protect API routes with robust middleware and JWT tokens."
   },
   {
     "question": "What are you currently learning or improving ?",
